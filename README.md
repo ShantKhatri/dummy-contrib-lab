@@ -8,6 +8,7 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 ## Who This Is For
 - Students preparing for GSoC or serious open-source work
 - Developers who want to fix bad Git and PR habits early
+- Testing abc
 
 ## What This Repo Is NOT
 - A playground
