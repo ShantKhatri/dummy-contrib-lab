@@ -1,0 +1,16 @@
+name: Contribution Proposal
+description: Propose a change before starting work
+body:
+  - type: textarea
+    attributes:
+      label: Problem Description
+      description: What is wrong or can be improved?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Proposed Solution
+      description: What do you plan to change?
+    validations:
+      required: true
