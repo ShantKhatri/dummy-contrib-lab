@@ -35,6 +35,10 @@ docs: improve README clarity
 ## Commit History
 - Squash commits if needed
 - One PR = one logical change
+**Example:**  
+If your pull request contains multiple small commits (such as formatting fixes or incremental updates), squash them into a single logical commit before opening the PR.
+
+This helps keep the commit history clean and makes reviews easier for maintainers.
 
 ## Pull Requests
 - Must reference an Issue
