@@ -20,4 +20,13 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 - Commit history must be clean and meaningful
 - Pull Requests that violate guidelines may be closed without comment
 
+## Repository Purpose
+
+This repository is intentionally minimal and is meant to help contributors
+learn real-world open-source contribution workflows.
+
+The focus is on small, focused contributions such as documentation updates
+or clarity improvements that demonstrate good Git hygiene, clear
+communication, and respect for maintainer time.
+
 If this feels strict, that is intentional.
