@@ -11,9 +11,9 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 - Developers wanting to work in the real industry setup
 
 ## What This Repo Is NOT
-- A playground: This isn't a platform for random, low-effort or experimental changes. Every change must strictly follow contribution rules and have a clear purpose.
-- A tutorial: This repo is not designed to teach Git or Github from scratch. Contributors are expected to know how to create issues, branches and pull requests.
-- A place for unreviewed commits: Contributers are expected to work on a separate branch, open a pull request and get a review before anything is merged.
+- A playground
+- A tutorial
+- A place for unreviewed commits
 
 ## Contribution Rules (Read Carefully)
 - All contributions must start with an Issue
