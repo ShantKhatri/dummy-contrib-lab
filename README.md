@@ -9,6 +9,7 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 - Students preparing for GSoC or serious open-source work
 - Developers who want to fix bad Git and PR habits early
 - Developers wanting to work in the real industry setup
+- Developers who want to operate with production-level Git, PR, and collaboration standards
 
 ## What This Repo Is NOT
 - A playground
