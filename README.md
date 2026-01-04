@@ -21,6 +21,16 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 - Commit history must be clean and meaningful
 - Pull Requests that violate guidelines may be closed without comment
 
+## Repository Purpose
+This repository is designed specifically for first-time open-source contributors.
+It provides a low-pressure environment to practice GitHub workflows such as
+forking repositories, making commits, and opening pull requests.
+
+Contributions are intentionally small and focused, with an emphasis on:
+- Clear communication
+- Clean and meaningful commits
+- Respect for maintainer time
+
 If this feels strict, that is intentional.
 
 ## Pull Request Expectations
