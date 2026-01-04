@@ -45,6 +45,24 @@ This helps keep the commit history clean and makes reviews easier for maintainer
 - Must fill out the PR template completely
 - Vague descriptions will result in closure
 
+## Draft Pull Requests
+
+Draft Pull Requests should be used when work is still in progress.
+
+Use a Draft PR when:
+- The implementation is incomplete
+- You want early feedback on approach or direction
+- Tests or documentation are not finalized
+
+Mark the PR as **Ready for Review** only when:
+- The change is complete
+- The commit history is clean
+- The PR description accurately reflects the change
+
+Using Draft PRs appropriately helps reviewers understand intent
+and prevents premature reviews.
+
+
 ## Communication
 - Do not ask "Can I work on this?"
 - Do not ask questions already answered in docs
